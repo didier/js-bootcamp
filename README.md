@@ -1,2 +1,2 @@
 # js-bootcamp
-@cmda Blok Tech — Javascript Bootcamp
+@cmda-bt Blok Tech — Javascript Bootcamp
