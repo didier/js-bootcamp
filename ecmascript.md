@@ -12,7 +12,7 @@ Previously, they named the ES versions regular numbers, such as ES5 and ES6. But
 
 The people actually working on evolving JavaScript as a language form a committee called TC39. TC39 consists of people from some of the world's largest companies; such as Google, Apple, Microsoft, Mozilla, Facebook and more.
 
-Taken from [Flavio Copes' blog](https://flaviocopes.com/ecmascript/#es-versions), this table clears up the naming a bit:
+_Taken from [Flavio Copes' blog](https://flaviocopes.com/ecmascript/#es-versions), this table clears up the naming a bit:_
 
 | Edition | Official name | Date Published |
 | ------- | :-----------: | -------------: |
