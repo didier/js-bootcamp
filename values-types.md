@@ -15,6 +15,8 @@ foo = 'bar'; // foo is now a String
 foo = true; // foo is now a Boolean
 ```
 
+i
+
 ## The different types
 
 The latest ECMAScript standard includes 9 types.
